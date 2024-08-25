@@ -201,11 +201,6 @@ Either you comment it out completely or you write the following in
 
 Just edit it. You don't need any node stuff. ;)
 
-## Sponsoring
-
-If you like my work and if you think this project is worth to support it, just <br />
-<a href="https://www.buymeacoffee.com/djordjeatlialp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
 ## Licence
 
 Copyright © 2019-2021 Djordje Atlialp
